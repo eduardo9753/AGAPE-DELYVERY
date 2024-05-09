@@ -15,7 +15,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Agape <br> chicken & grill</strong></h1>
+                            <h1 class="m-b-20"><strong>Ágape <br> chicken & grill</strong></h1>
                             <p class="m-b-40">¡Ven y descubre la excelencia en cada bocado! En nuestra pollería, te esperan
                                 'Los Mejores Pollos a la Brasa de Todo Collique'. Déjate seducir por el sabor inigualable,
                                 la jugosidad irresistible y el aroma tentador de nuestras deliciosas creaciones. ¡Una

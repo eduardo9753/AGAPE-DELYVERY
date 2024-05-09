@@ -9,14 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Metas -->
-    <title>Live Dinner Restaurant - Responsive HTML5 Template</title>
+    <title>Ágape Chicken & Grill</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="shortcut icon" href="{{ asset('img/logo.png') }}" type="image/x-icon">
+    <link rel="apple-touch-icon" href="{{ asset('img/logo.png') }}">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
@@ -74,7 +74,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h3>Contactanos</h3>
                     <p class="lead"> parque sinchi roc, Av. Universitaria 9311, Comas 15316</p>
-                    <p class="lead"><a href="#">+51 922 394 642</a></p>
+                    <p class="lead"><a href="#">+51 946 015 906</a></p>
                     <p><a href="#"> enproceso@gmail.com</a></p>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -92,8 +92,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <p class="company-name">All Rights Reserved. &copy; 2024 <a href="#">Agape chicken &
-                                grill</a> Design By :
-                            <a href="">Anthony Nuñez - Richard Alama</a>
+                                grill</a>
+                            <a href=""></a>
                         </p>
                     </div>
                 </div>

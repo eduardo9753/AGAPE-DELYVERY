@@ -6,7 +6,7 @@
                 <div class="overflow-hidden">
                     <h4>Celular</h4>
                     <p class="lead">
-                        +51 922 394 642
+                        +51 946 015 906
                     </p>
                 </div>
             </div>

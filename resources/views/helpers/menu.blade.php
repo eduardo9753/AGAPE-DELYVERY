@@ -4,7 +4,7 @@
             <div class="col-lg-12">
                 <div class="heading-title text-center">
                     <h2>Nuestra Carta</h2>
-                    <p>Ordena el palto que desees y compartela entre tus seres queridos</p>
+                    <p>Ordena el plato que desees y compártelo en familia.</p>
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@
                                                 <h4>{{ $dish->name }}</h4>
                                                 <p>{{ $dish->description }}</p>
                                                 <h5>S/.{{ $dish->price }}</h5>
-                                                <a href="https://wa.me/51922394642?text=Hola quiero pedir - Codigo:{{ $dish->id }} - {{ $dish->name }} - {{ $dish->description }}"
+                                                <a href="https://wa.me/51946015906?text=Hola quiero pedir - Codigo:{{ $dish->id }} - {{ $dish->name }} - {{ $dish->description }}"
                                                     class="btn btn-success">Pedir</a>
                                             </div>
 
